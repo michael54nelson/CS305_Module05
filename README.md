@@ -6,5 +6,5 @@ As part of my team, I am working on a web scraper that identifies and pulls plan
 
 The license for this repository is [Mozilla Public License 2.0](https://github.com/michael54nelson/CS305_Module05/blob/main/LICENSE).
 
-### Contributors
-Krysten contributed to this repository
+## Current Wikis
+This section will be used to document the current wikis availble for contributors and collaborators to use as resources for thhis project.
